@@ -17,7 +17,16 @@ I currently like to write with Python, but it's not the end.
 
 I've used a few IDE's and editors like Python IDLE, Visual Studio, PyCharm,
 Neovim and... sorry, sometimes, when I'm soooo lazy, Windows Notepad,
-which has caused much problem. (*sigh.)
+which has caused much problem. (\*sigh.\*)
+
+I attended a competition on IT and wrote a Python GUI programme.
+It's a N-puzzle game, in China called “数字华容道”.
+
+Then I wrote pinandpi, but it's not quite good.
+
+I've made some small tools for my work, they've been helpful.
+
+Now I'm still learning to make a better project.
 
 ## My Maths World: A Glimpse
 
@@ -78,5 +87,7 @@ some powerful theories like set theory.
 
 Or, maybe the theory is made of rules, like most type theories,
 then what you put in may be a universe like
-$\mathsf{Monoid} := (A:\mathcal U)\times(\cdot:A\to A\to A)
-\times(\mathrm{assoc}:\prod\limits_{a,b,c:A} abc = a(bc))$.
+$\mathsf{Monoid} := \sum\limits_{A:\mathcal U} (\cdot:A\to A\to A)
+\times(\mathrm{assoc}:\prod\limits_{a,b,c:A} (a\cdot b)\cdot c = a\cdot(b\cdot c))$.
+
+---Structure is known from the relationship, so is identity.
