@@ -28,10 +28,10 @@ But we usually have it in the context of set theory, so we apply a
 functor $\mathsf{Grp} \to \mathsf{Grp}_{\mathsf{Set}}$ onto it,
 and get the set-representation of it.
 
-And, given a category of all models of something, the initial object
-has exactly the same structure as it.
+And, given a category of all models (or instances) of something, the initial object
+has exactly the same structure as the thing.
 
-## 3. About identity: structure and relationships
+## 3. About identity: inner structure and relationships
 
 In 1-category theory, two things $a, b \in \mathcal C$ are the same
 as long as functors $\mathcal C(-, a) \simeq \mathcal C(-, b)$
@@ -51,13 +51,14 @@ In my maths world there is a machine that recognises maths expressions.
 You can add some rules for it, such as the basic rules of logic.
 The machine can operate on expressions according to the rules.
 
-Then you can put an math object in it as 'theory', and then study it.
+Then you can put an math object into it as 'theory', and then study it.
 You can even make implementations for other theories or objects via
 some powerful theories like set theory.
 
-Or, maybe the theory is made of rules, like most type theories,
+Or, maybe the theory itself is made of rules, like most type theories,
 then what you put in may be a universe like
 $\mathsf{Monoid} := \sum\limits_{A:\mathcal U} (\cdot:A\to A\to A)
 \times(\mathrm{assoc}:\prod\limits_{a,b,c:A} (a\cdot b)\cdot c = a\cdot(b\cdot c))$.
 
----Structure gets known from the relationship, so does identity.
+--- Structure gets known from the relationship, so does identity.\
+Same as this, How I relate to everything else tells who I am.
