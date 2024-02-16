@@ -27,4 +27,3 @@ Then I wrote pinandpi, but it's not quite good.
 I've made some small tools for my work, they've been helpful.
 
 Now I'm still learning to make a better project.
-
