@@ -12,7 +12,7 @@ after reading Python docs.
 
 📖 Now that I've stepped into senior high school,
 I found most geometric and algebraic theories beautiful...\
-... though I don't know very much about all of them.
+... though I don't know very much about any of them.
 
 However, I've got my own understanding about the maths world.
 
@@ -28,14 +28,16 @@ Windows Notepad, which has caused much problem. (\*sigh.\*)
 
 I attended a competition on IT when I was a 8th-grader and wrote a
 Python GUI programme --- an N-puzzle game, in China called “数字华容道”.
-Though as sth for a low-level competition it is a success,
+Though as sth for a low-level competition it was a success,
 but it was not good as a project before I refactored it later,
 with a terribly high coupling degree. 😆
 
 Then I wrote [pinandpi](https://github.com/frankpfan/pinandpi),
 which consists of an algorithm that simulates Buffun's needle experiment,
-and an application for interaction, history storing and analysing.
-However, as my original plan wasn't complete, the app is not quite good.
+and an application for interaction, history storing and data analysing.
+However, as my original plan was simple and I wanted to do more
+after some time of developing, the app isn't satisfying even at present
+and is hard to make in-place changes.
 
 I've made some small tools for my work, and they've been helpful.
 
